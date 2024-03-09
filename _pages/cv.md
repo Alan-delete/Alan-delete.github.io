@@ -39,7 +39,7 @@ Skills
   * Computer Vision (Deep Learning Based Knowledge, SfM)
   * Probabilistic AI (Gaussian Process, Reinforcement Learning)
 * Computer Graphics
-  * Path/Light Tracing Rendering, Photo Mapping
+  * Path/Light Tracing Rendering, Photon Mapping
   * Participating Media Simulation
 * Web Application
   * Javascript
