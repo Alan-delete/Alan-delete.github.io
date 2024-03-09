@@ -1,14 +1,20 @@
 ---
 permalink: /
-title: "Introduction"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Welcome to my personal website. I am Haonan Chen, a master's student in Computer Science specializing in Visual and Interactive Computing at [ETH Zurich](https://ethz.ch/en.html). Prior to this, I completed my bachelor's degree in Computer Science with First Class Honors at [The Chinese Univeristy of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
 
-This is the personal website of Haonan CHEN, a computer science master student majoring in Visual and Interactive Computingin in [ETH Zurich](https://ethz.ch/en.html). Before that,
-I obtained my bachelor's degree of Computer science in [The Chinese Univeristy of Hong Kong](https://www.cuhk.edu.hk/english/index.html) with the First Honor. My reserach interest is mainly in inverse rendering.  
+My current research interests primarily lie in inverse rendering, with a focus on 3D human pose estimation and scene reconstruction. I am deeply intrigued by the process of transforming objects from 2D to 3D space, whether through traditional algorithms or neural networks. The elegant matrix representation underlying the transformation impresses me, while the remarkable capabilities of machine learning on this field ignite my imagination.
+
+Further more, this process, which involves taking the most common inputs that we receive every day, sheds light on how we humans perceive and interpret the world around us. It has the potential to unravels the mysteries of our perception and cognition, offering insights into the fundamental workings of the human mind.
+
+Regarding my professional aspirations, I aim to specialize as a machine learning algorithm developer in computer vision/graphics or as a rendering engineer in industrial development.
+
+Feel free to explore my website to learn more about my academic journey, research projects, and interests. Thank you for visiting!
 
 <!-- A data-driven personal website
 ======
