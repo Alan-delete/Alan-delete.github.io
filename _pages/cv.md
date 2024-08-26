@@ -17,6 +17,11 @@ Education
 
 Experience
 ======
+* June 2024: Quest3 rendering pipeline study and UE dynamic batching implementation
+  * Study the binocular rendering pipeline of the Quest 3, focusing on the difference between single-pass stereo pipeline and single-pass multiview pipeline.
+  * Code the Dynamic Batching function as a plugin to the UE engine. RenderDoc and Snapdragon Profiler were used to test the Dynamic Batching on the Samsung 10e. The results show that the Dynamic Batching can significantly reduce draw call overhead.
+  * Octree is applied to more reasonably batch objects with the same material, thereby improving the efficiency of frustum culling.*
+
 * Mar 2022:  LVS-Net: Line Voting with Segmentation for Visual Localization
   * Supervised by teaching assistent R´emi Pautrat in ETH, I worked with other three team members to
     estimate camera pose from 2D-3D correspondences that are gained from extended VS-Net.
@@ -41,6 +46,7 @@ Skills
 * Computer Graphics
   * Path/Light Tracing Rendering, Photon Mapping
   * Participating Media Simulation
+  * Unreal Engine
 * Web Application
   * Javascript
   * React
